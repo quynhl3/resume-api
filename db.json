@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Quynh Le",
+    "label": "Full Stack Developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQFqTM36I0C1tA/profile-displayphoto-shrink_200_200/0/1643184299480?e=1651708800&v=beta&t=7LNVy9FqmcexP3SdHsmKuVJjgMLp8cNqUQDplu7l44w",
+    "email": "nhuqxl@gmail.com",
+    "phone": "925-331-7706",
+    "website": "TBA",
+    "summary": "I'm a Full Stack Developer who is passionate and detail oriented. Currently based in San Francisco, California. I enjoy continuous learning and exploring new technologies. Constantly motivated by being able to problem solve and provide solutions for others.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "state": "California"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Quynh Le",
+        "url": "https://www.linkedin.com/in/quynh-l/"
+      },
+      {
+        "network": "GitHub",
+        "username": "quynhl3",
+        "url": "https://github.com/quynhl3"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CVS Pharmacy",
+      "position": "Lead Pharmacy Technician ",
+      "website": "https://www.statefarm.com",
+      "startDate": "2018-01-18",
+      "endDate": "2020-11-25",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Grace Hopper at Fullstack Academy",
+      "area": "Full Stack Web Development",
+      "studyType": "Certificate",
+      "startDate": "2021-11-01",
+      "endDate": "2022-02-18"
+    },
+    {
+      "institution": "University of California, San Diego",
+      "area": "Pharmacological Chemistry",
+      "studyType": "Bachelor",
+      "startDate": "2015-06-01",
+      "endDate": "2020-12-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "keywords": ["Cloud", "Lambda", "S3", "CloudFront"]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": ["ECMAScript", "ES6", "Node.js", "Web", "Front End"]
+    },
+    {
+      "name": "React",
+      "keywords": ["SPA", "Web", "Front End"]
+    },
+    {
+      "name": "Docker",
+      "keywords": ["Containers"]
+    },
+    {
+      "name": "Linux",
+      "keywords": ["Bash", "Shell"]
+    },
+    {
+      "name": "SQL",
+      "keywords": ["PostgreSQL"]
+    },
+    {
+      "name": "GitHub",
+      "keywords": ["SDLC", "OSS", "CI/CD"]
+    },
+    {
+      "name": "Photoshop",
+      "keywords": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Watching Shows",
+      "keywords": ["Reality TV Dating Shows", "Master Chef", "The Office"]
+    },
+    {
+      "name": "Games",
+      "keywords": ["First-person shooters"]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    },
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
